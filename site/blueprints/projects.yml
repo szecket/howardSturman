@@ -1,0 +1,24 @@
+title: Projects
+
+pages:
+  template: project
+
+options:
+  template: false
+  status: true
+  url: true
+
+icon: files-o
+
+fields:
+  settingsgroup:
+    extends: settings
+
+  pagesgroup:
+    extends: pages
+
+  slidergroup:
+    extends: slider
+
+  contentgroup:
+    extends: content

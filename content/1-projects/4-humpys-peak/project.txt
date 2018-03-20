@@ -1,0 +1,182 @@
+Title: Please Don't Look
+
+----
+
+Year: 2016
+
+----
+
+Tags: Website
+
+----
+
+Text: 
+
+<br />
+
+## What's going on?
+
+And I said heyyyyyeahyyyyeahyeahyeah
+
+## What's going on?
+
+Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+
+
+(hr: t3)
+
+(image: julia-janeta-510.jpg link: self class: lightbox)
+
+(unwrap: open)
+
+(columns...)
+
+## Let's see
+
+++++
+
+(image: hg3.jpg link: self class: lightbox)
+
+(...columns)
+
+(unwrap: close)
+
+(unwrap: open)
+
+(columns...)
+
+(image: trippy.jpg link: self class: lightbox)
+
+++++
+
+(image: hg2.jpg link: self class: lightbox)
+
+++++
+
+(image: hg3.jpg link: self class: lightbox)
+
+(...columns)
+
+(unwrap: close)
+
+(unwrap: open)
+
+(columns...)
+
+(image: hg1.jpg link: self class: lightbox)
+
+++++
+
+(image: brooke-lark-230140.jpg link: self class: lightbox)
+
+(...columns)
+
+(unwrap: close)
+
+(image: ramiro-mendes-237525.jpg link: self class: lightbox)
+
+
+(unwrap: open)
+
+(columns...)
+
+++++
+
+## Tons of layouts!
+
+(...columns)
+
+(unwrap: close)
+
+(image: scott-webb-244457.jpg link: self class: lightbox)
+
+
+
+
+
+
+
+(hr: t1)
+
+## Team
+
+(columns...)
+
+#### Design
+David Wadley
+Jessica Madison
+
+++++
+
+#### Development
+Adriana Kasey
+Peter Smith
+
+++++
+
+#### Copywriting
+Mark Tallon
+Monica Randolph
+
+
+(...columns)
+
+----
+
+Masktype: none
+
+----
+
+Intro: 
+
+I just learned how to camera these, do you like them?
+I like them.
+And my camera.
+
+----
+
+Mask: light
+
+----
+
+Covermedia: toggleSlider
+
+----
+
+Slidersize: fullwidth
+
+----
+
+Covervideo: 
+
+----
+
+Coverimage: roar.jpg
+
+----
+
+Sliderimages: roar.jpg,hg1.jpg,hg3.jpg
+
+----
+
+Date: 2017-07-09
+
+----
+
+Titlealternative: I Said Don't Look, This Stuff Really is Terrible
+
+----
+
+Toggletitle: 0
+
+----
+
+Togglesubnav: 0
+
+----
+
+Columnwidth: 4
+
+----
+
+Pagemask: dark

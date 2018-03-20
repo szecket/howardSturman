@@ -1,0 +1,25 @@
+title: Blog
+
+pages:
+  template: article
+  num: date
+
+options:
+  template: false
+  status: true
+  url: true
+
+icon: newspaper-o
+
+fields:
+  settingsgroup:
+    extends: settings
+
+  pagesgroup:
+    extends: pages
+
+  slidergroup:
+    extends: slider
+
+  contentgroup:
+    extends: content

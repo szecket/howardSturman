@@ -1,0 +1,171 @@
+Title: Bored in Park
+
+----
+
+Year: 2017
+
+----
+
+Text: 
+
+## Problem
+Vestibulum dignissim nulla sem. Nullam pellentesque suscipit tortor. Aliquam egestas, enim vitae tempor egestas, felis est pulvinar justo, eu pulvinar nibh nibh hendrerit diam. Sed quis lorem sed magna varius consequat nec tincidunt nibh.
+
+
+(hr: t3)
+
+## Solution
+Aliquam egestas, enim vitae tempor egestas, felis est pulvinar justo, eu pulvinar nibh nibh hendrerit diam. Nullam pellentesque suscipit tortor.
+
+(hr: t3)
+
+
+
+(unwrap: open)
+
+(columns...)
+
+(image: josh-nuttall-286507.jpg link: self class: lightbox)
+
+++++
+
+(image: josh-nuttall-271926.jpg link: self class: lightbox)
+
+(...columns)
+
+(columns...)
+
+(image: josh-nuttall-305075.jpg link: self class: lightbox)
+
+++++
+
+(image: josh-nuttall-271920.jpg link: self class: lightbox)
+
+++++
+
+(image: josh-nuttall-271915.jpg link: self class: lightbox)
+
+(...columns)
+
+(image: josh-nuttall-305072.jpg link: self class: lightbox)
+(image: josh-nuttall-271928.jpg link: self class: lightbox)
+
+(unwrap: close)
+
+
+
+
+(hr: t3)
+
+
+## Results
+
+<br />
+(columns...)
+
+(hr: t2 nospace)
+# +345%
+Visitors
+
+++++
+
+(hr: t2 nospace)
+# 50,583
+Unique Visitors
+
+++++
+
+(hr: t2 nospace)
+# +128%
+More Conversions
+
+(...columns)
+
+
+
+
+
+(hr: t1)
+
+## Creative Team
+
+(columns...)
+
+#### Design
+David Wadley
+Jessica Madison
+
+++++
+
+#### Development
+Adriana Kasey
+Peter Smith
+
+++++
+
+#### Copywriting
+Mark Tallon
+Monica Randolph
+
+
+(...columns)
+
+----
+
+Tags: Campaign
+
+----
+
+Masktype: none
+
+----
+
+Intro: You know how I sometimes have really brilliant ideas? I am the (link: http://google.com text: Doctor popup: yes).
+
+----
+
+Mask: light
+
+----
+
+Covermedia: toggleSlider
+
+----
+
+Slidersize: fullwidth
+
+----
+
+Covervideo: 
+
+----
+
+Coverimage: india_point_park_providence_ri.jpg
+
+----
+
+Sliderimages: india_point_park_providence_ri.jpg
+
+----
+
+Date: 2017-06-01
+
+----
+
+Titlealternative: 
+
+----
+
+Toggletitle: 0
+
+----
+
+Togglesubnav: 0
+
+----
+
+Columnwidth: 6
+
+----
+
+Pagemask: dark

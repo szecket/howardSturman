@@ -1,0 +1,13 @@
+type: group
+fields:
+  headlineContent:
+    label: Content
+    type: headline
+
+  intro:
+    label: Intro
+    type:  textarea
+
+  text:
+    label: Text
+    type:  textarea

@@ -1,0 +1,136 @@
+Title: Nude People
+
+----
+
+Year: 2016
+
+----
+
+Text: 
+
+Gee, I sure love naked people. 
+(columns...)
+> It's art! A statement on modern society: Oh Ain't Modern Society Awful?  I don't know why.
+(...columns)
+
+Father Christmas. Santa Claus. Or as I've always known him: Jeff. __It's art!__
+
+
+
+
+(hr: t3)
+
+
+
+
+(unwrap: open)
+
+(image: pedro-gabriel-miziara-251077.jpg link: self class: lightbox)
+
+(gallery...)
+
+(image: benjamin-lambert-113106.jpg link: self class: lightbox)
+(image: mervyn-chan-262963.jpg link: self class: lightbox)
+(image: mervyn-chan-262968.jpg link: self class: lightbox)
+(image: christopher-campbell-28570.jpg link: self class: lightbox)
+(image: shifaaz-shamoon-198086.jpg link: self class: lightbox)
+
+(...gallery)
+
+(image: zivile-arunas-304100.jpg link: self class: lightbox)
+
+(unwrap: close)
+
+
+
+(hr: t3)
+
+
+No, I'll fix it. I'm good at fixing rot. Call me the Rotmeister. No, I'm the Doctor. Don't call me the Rotmeister. *Hey*, the good things don't always soften the bad things; but vice-versa the bad things don't necessarily spoil the good things and make them unimportant.
+
+
+
+(hr: t1)
+
+## Thanks to
+
+(columns...)
+
+#### Design
+David Wadley
+Jessica Madison
+
+++++
+
+#### Development
+Adriana Kasey
+Peter Smith
+
+++++
+
+#### Copywriting
+Mark Tallon
+Monica Randolph
+
+
+(...columns)
+
+----
+
+Tags: Video Production
+
+----
+
+Masktype: light
+
+----
+
+Intro: __It's art!__
+
+----
+
+Mask: light
+
+----
+
+Covermedia: toggleVideo
+
+----
+
+Slidersize: fullwidth
+
+----
+
+Covervideo: 5887538299.mp4
+
+----
+
+Coverimage: benjamin-lambert-113106.jpg
+
+----
+
+Sliderimages: 
+
+----
+
+Date: 2017-07-09
+
+----
+
+Titlealternative: Lots and Lots of Nudity (For Pretty Much No Reason)📷
+
+----
+
+Toggletitle: 0
+
+----
+
+Togglesubnav: 0
+
+----
+
+Columnwidth: 12
+
+----
+
+Pagemask: dark

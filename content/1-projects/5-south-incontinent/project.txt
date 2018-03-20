@@ -1,0 +1,83 @@
+Title: I Went to a Place with Animals and a Camera
+
+----
+
+Year: 2016
+
+----
+
+Text: 
+
+(unwrap: open)
+
+(gallery...)
+
+(image: alisha-hieb-249784.jpg link: self class: lightbox)
+(image: fernando-reyes-241690.jpg link: self class: lightbox)
+(image: helena-hertz-256396.jpg link: self class: lightbox)
+(image: isaac-benhesed-260758.jpg link: self class: lightbox)
+(image: michael-207280.jpg link: self class: lightbox)
+
+(...gallery)
+
+(unwrap: close)
+
+----
+
+Tags: Website
+
+----
+
+Masktype: light
+
+----
+
+Titlealternative: The Camera was the Best Part
+
+----
+
+Toggletitle: 0
+
+----
+
+Togglesubnav: 0
+
+----
+
+Date: 2017-07-11
+
+----
+
+Mask: light
+
+----
+
+Covermedia: toggleSlider
+
+----
+
+Slidersize: fullwidth
+
+----
+
+Covervideo: 
+
+----
+
+Coverimage: matt-palmer-254999.jpg
+
+----
+
+Sliderimages: matt-palmer-254999.jpg,nordwood-themes-190181.jpg
+
+----
+
+Intro: Privacy newspaper Wikipedia curation API The Weekender do what you do best and link to the rest.
+
+----
+
+Columnwidth: 8
+
+----
+
+Pagemask: dark

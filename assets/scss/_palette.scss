@@ -1,0 +1,38 @@
+//
+// Dark / Light Skin
+//
+// Currently they are set trough the Panel.
+// Uncomment if you'd like to compile the SCSS files manually.
+// By default $light is false, which means the Dark skin is loaded.
+// -----------------------------------------------------------------
+// $light: false !default;
+// -----------------------------------------------------------------
+
+$bg: #0d0d0e;
+$c0: invert(#000);
+$c1: invert(#333);
+$c2: invert(#66666a);
+$c3: invert(#aaa);
+$c4: invert(#eee);
+
+@if $light {
+    $bg: #fff;
+    $c0: #000;
+    $c1: #333;
+    $c2: #66666a;
+    $c3: #aaa;
+    $c4: #eee;
+}
+
+$bgCode: #2f2f37;
+$cStroke: rgba($c1,.2);
+
+//
+// Accent Colors
+//
+// Currently they are set trough the Panel.
+// Uncomment if you'd like to compile the SCSS files manually.
+// -----------------------------------------------------------------
+// $ca1: #1177f4;
+// $ca2: #f0cf61;
+// -----------------------------------------------------------------

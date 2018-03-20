@@ -1,0 +1,126 @@
+Title: Some White Building
+
+----
+
+Year: 2017
+
+----
+
+Griditem: none
+
+----
+
+Intro: Ya know what I hate? Lorem friggin' ipsum all up in my steez.
+
+----
+
+Text: 
+
+## Ita alite modo inquam Erasinus tamen
+
+Lorem *markdownum* aureus meritis, magnasque conpleat, removit ossa, nequiquam hortus, victu fratrique si Haec! Gurgite florentis colla. Medullis iunctis coronas. Non *lato*, demittit feruntur inclite summa illic adest corpore tu silva vota pecoris!
+
+
+(carousel...)
+
+(image: slide-joel-filipe-191175-1.jpg link: self class: lightbox)
+
+++++
+
+(image: slide-joel-filipe-189456-1.jpg link: self class: lightbox)
+
+++++
+
+(image: slide-joel-filipe-189456-1.jpg link: self class: lightbox)
+
+(...carousel)
+
+## Utilibus et
+
+Pars ait *ipsa*, nec molli agmine terras alma esset petentem? Doleamne vellet parte increpat in faciat nomine moenia, [perradiare](http://umor.io/dixisse.html) Si *quod Pudor salutant* quam protecta! Enim corpore promissi, voluntas dura remeabat ex magno adulantes, sero fecunda, feruntur foedari contigit rapitur.
+
+- Avem non superum
+- Intulerant ut diverso ante ter Aesoniden rapit
+- Nivosos iam lustrat Ancaeo frondere in licet
+- Tulit in teste verbaque certamine ceperat falsis
+
+## Vale sit latarumque venenum portis Parin corpus
+
+Sequenti quod adclivi possit, dedit loqui. Longoque aut naribus primi. Non
+Exadius vecte, mater victo, sed suam ingens diem.
+
+Fisa almus favilla marmora stravit! Se *monstri* signa manu obliqua animae
+passim nostrae quae finita, est corpora, scelus lumina pisce utque; ille.
+
+## Foedere scire Baccho negant igitur
+
+Coll aquas bipennis nutricisque haec humano conchis notasti revelli, pharetraque nescio; *canos modo*. Neve plangoremque visus! Mollibus miseranda dies, lacrimasrespicit. Nota vulnus, visa enim more quoque, ore, arva Luna agmenque, fit. Omnia propago, inque, te, quam.
+
+(columns...)
+
+> Nox animo, lentosque moratus. In ipse dextra, euntem insidiisque Phoebi longi visa gurgite, quod est! Pan murraeque pater, pedes, **tibi heros** gelidoque debita visa.
+<cite>Paul Rand</cite>
+
+(...columns)
+
+Poterat habet, arma videam nec tenent quoque sole amorem, alvo qua, tenens adspexi si genua. Rursusque duplici, dolis Gorgoneas fecit, lina quamlibet quod reppulit. Vixque laevaque si caput reliquit, quod, crimen destringere puris obstipuit murus, ire longoque caris. Et soporem amplectitur, iam te quatiens Achivi, tamen ante solito cumque; Antiphataeque quem currus [plagamqueodiique](http://proxima-dextraeque.io/temporamater) numen! Novo maestus portus saepius rursusque huic spretor rigidique Ilios transit; mallet fluunt interdum.
+
+----
+
+Coverimage: architecture.jpg
+
+----
+
+Tags: Architecture
+
+----
+
+Attachments: 
+
+----
+
+Sliderimages: slide-joel-filipe-151692.jpg,slide-joel-filipe-189456-1.jpg,slide-joel-filipe-191175-1.jpg
+
+----
+
+Toggleslider: cimage
+
+----
+
+Slidersize: fullwidth
+
+----
+
+Covervideo: 652266352.mp4
+
+----
+
+Covermedia: toggleImage
+
+----
+
+Mask: light
+
+----
+
+Titlealternative: I Found A Building (I Had My Camera With Me❤️)
+
+----
+
+Toggletitle: 0
+
+----
+
+Togglesubnav: 0
+
+----
+
+Date: 2017-07-15
+
+----
+
+Columnwidth: 4
+
+----
+
+Pagemask: light

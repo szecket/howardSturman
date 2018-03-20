@@ -1,0 +1,92 @@
+Title: Luge Racing: Not What I Expected
+
+----
+
+Year: 2017
+
+----
+
+Text: 
+
+Camera camera camera camera. Camera camera camera, camera camera. Camera! Camera camera camera; camera camera camera camera camera. Tripod, flash camera microphone.
+(unwrap: open)
+
+(gallery...)
+
+(image: hugo-sousa-270201.jpg link: self class: lightbox)
+(image: jose-duarte-127974.jpg link: self class: lightbox)
+(image: hugo-sousa-271796.jpg link: self class: lightbox)
+(image: joel-filipe-302024.jpg link: self class: lightbox)
+(image: monica-silva-144549.jpg link: self class: lightbox)
+(image: samuel-zeller-250038.jpg link: self class: lightbox)
+(image: barbara-sampaio-236872.jpg link: self class: lightbox)
+(image: alex-bykov-211289.jpg link: self class: lightbox)
+
+(...gallery)
+
+(unwrap: close)
+
+
+## Camera and other things
+
+Camera camera camera lights. Tripod! Flash flash flash camera. Many many many picture, camera SD card battery.
+
+1. Camera
+2. Caameerraaaaahh
+3. Help me
+
+----
+
+Tags: Cam
+
+----
+
+Date: 2017-07-09
+
+----
+
+Intro: O hai I am in studio with camera
+
+----
+
+Mask: light
+
+----
+
+Covermedia: toggleImage
+
+----
+
+Slidersize: fullwidth
+
+----
+
+Covervideo: 
+
+----
+
+Coverimage: florian-klauer-119557.jpg
+
+----
+
+Sliderimages: 
+
+----
+
+Titlealternative: Studio Photography I Did in a Studio (With a Camera)
+
+----
+
+Toggletitle: 0
+
+----
+
+Togglesubnav: 0
+
+----
+
+Columnwidth: 6
+
+----
+
+Pagemask: dark

@@ -1,0 +1,12 @@
+title: Error
+
+pages: false
+
+icon: warning
+
+fields:
+  settingsgroup:
+    extends: settings
+
+  contentgroup:
+    extends: content

@@ -1,0 +1,137 @@
+Title: Howard "The Stir Man" Sturman
+
+----
+
+Author: Howard "The Stir Man" Sturman
+
+----
+
+Description: Loads of pictures from all over my small apartment full of rats and guano somehow
+
+----
+
+Copyright: © (date: Year)  Howard Sturman
+
+----
+
+Footer: I am Howard Camera. For hiring inquiries just (email:you@goaway.edu text: change my email).
+
+----
+
+Navigationtype: navstandard
+
+----
+
+Socialfacebook: 
+
+----
+
+Socialtwitter: http://twitter.com/yordanoff
+
+----
+
+Sociallinkedin: 
+
+----
+
+Socialinstagram: http://instagram.com/yordanoff
+
+----
+
+Socialdribbble: http://dribbble.com/yordanoff
+
+----
+
+Socialbehance: 
+
+----
+
+Socialgithub: http://github.com/yordanoff
+
+----
+
+Socialmedium: 
+
+----
+
+Socialyoutube: 
+
+----
+
+Socialvimeo: 
+
+----
+
+Socialsnapchat: 
+
+----
+
+Socialsoundcloud: 
+
+----
+
+Socialspotify: 
+
+----
+
+Socialemail: 
+
+----
+
+Grid: 1
+
+----
+
+Fontheadings: Rubik
+
+----
+
+Fontbody: Quantico
+
+----
+
+Socialphone: 
+
+----
+
+Socialaddress: https://www.google.com/maps/place/4+E+3rd+St,+Frederick,+MD+21701/@39.4176412,-77.4122172,17z/data=!3m1!4b1!4m5!3m4!1s0x89c9da5861c0d7f5:0xf1822010c1e30a36!8m2!3d39.4176371!4d-77.4100285
+
+----
+
+Logo: home.svg
+
+----
+
+Metaimage: photo-camera.png
+
+----
+
+Paginationpages: 6
+
+----
+
+Paginationprojects: 0
+
+----
+
+Paginationblog: 3
+
+----
+
+Googleanalytics: 
+
+----
+
+Ca1: #ab0000
+
+----
+
+Ca2: #79b0e0
+
+----
+
+Pagemask: 1
+
+----
+
+Skin: 1

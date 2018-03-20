@@ -1,0 +1,201 @@
+Title: ❤️Stephen Miller❤️
+
+----
+
+Year: 2016
+
+----
+
+Tags: Website,Love
+
+----
+
+Text: 
+
+I'm something new entirely. 
+I'm a lizard person.
+I'm Stephen. Frigging. Miller.
+Hear me obnoxiously sniff.
+
+
+
+(hr: t1)
+
+## Project Information
+
+I'm going to tell you something that I've never told anyone before.
+
+God created pudding, and then he rested. Cops, another community I'm not part of. I'm not the monster he wants me to be. So I'm neither man nor beast.
+
+
+(hr: t3)
+
+
+(unwrap: open)
+
+(columns...)
+
+(image: larm-rmah-98844.jpg link: self class: lightbox)
+
+++++
+
+### Under normal circumstances
+
+I'd take that as a compliment. Tell him time is of the essence. I'm not the monster he wants me to be. So I'm neither man nor beast.
+
+(...columns)
+
+
+(columns...)
+
+### Hello, Dip Schitt
+
+I'm not the monster he wants me to be. So I'm neither man nor beast. I'd take that as a compliment.
+
+++++
+
+(image: jeremy-bishop-151467.jpg link: self class: lightbox)
+
+(...columns)
+
+(columns...)
+
+(image: nei-neves-125704.jpg link: self class: lightbox)
+
+++++
+
+(image: nick-scheerbart-32085.jpg link: self class: lightbox)
+
+++++
+
+(image: andrew-coelho-215805.jpg link: self class: lightbox)
+
+(...columns)
+
+(image: annie-spratt-106643-r.jpg)
+
+(unwrap: close)
+(columns...)
+❤️❤️❤️
+
+++++
+
+(image: stephen_miller_by_gage_skidmore.jpg)
+
+++++
+
+(image: 34543594142_b7f455f5c1_c.jpg)
+
+
+(image: stephen1.jpg)
+
+++++
+
+(image: stephen_miller_by_gage_skidmore.jpg)
+++++
+
+❤️❤️❤️
+
+(...columns)
+
+
+
+(hr: t3)
+
+
+
+
+(hr: t1)
+
+## Team
+
+(columns...)
+
+#### Design
+David Wadley
+Jessica Madison
+
+++++
+
+#### Development
+Adriana Kasey
+Peter Smith
+
+++++
+
+#### Copywriting
+Mark Tallon
+Monica Randolph
+
+
+(...columns)
+
+---
+
+(columns...)
+
+Pretend. You pretend the feelings are there, for the world, for the people around you. Who knows? Maybe one day they will be. I'm a sociopath; there's not much he can
+
+++++
+
+do for me. I'm not the monster he wants me to be. So I'm neither man nor beast. I'm something new entirely. With my own set of rules. I'm Dexter. Boo.
+
+(...columns)
+
+(hr: t3)
+
+# Thank you!
+
+<br />
+
+----
+
+Masktype: dark
+
+----
+
+Intro: I'm going to tell you something that I've never told anyone before.
+
+----
+
+Mask: light
+
+----
+
+Covermedia: toggleImage
+
+----
+
+Covervideo: 
+
+----
+
+Coverimage: 
+
+----
+
+Sliderimages: 
+
+----
+
+Titlealternative: ❤️❤️My Camera ❤️❤️
+
+----
+
+Toggletitle: 0
+
+----
+
+Togglesubnav: 0
+
+----
+
+Date: 2017-07-11
+
+----
+
+Columnwidth: 4
+
+----
+
+Pagemask: dark

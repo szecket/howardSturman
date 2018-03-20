@@ -1,0 +1,286 @@
+Title: Features
+
+----
+
+Titlealternative: Theme Features
+
+----
+
+Toggletitle: 0
+
+----
+
+Intro: Features you have not seen before in a Kirby theme. Here is a short summary of them.
+
+----
+
+Coverimage: luca-bravo-207676.jpg
+
+----
+
+Text:
+
+<br />
+<br />
+
+
+<div class="ta-center">
+    <h1>Make sure it suits your needs.</h1>
+</div>
+
+
+(hr: t3)
+
+
+(columns...)
+
+(image: kollide-dark.png link: self class: lightbox nomargin)
+#### Dark Color Scheme
+
+++++
+
+(image: kollide-light.png link: self class: lightbox nomargin)
+#### Light Color Scheme
+
+(...columns)
+
+---
+
+<div class="ta-center">
+
+<br />
+
+(link: http://demo.themes.yordanoff.net/kollide text: Panel Demo <span data-txt="→">→</span> popup: yes class: btn btn-2x)
+
+<div class="cf"></div>
+<br />
+
+<span class="conn-02">
+Also, don't forget to check out the
+</span>
+
+(link: /about/docs text: <i class="fa fa-file-text"></i> Documentation class: btn regular)
+
+<span class="conn-02">
+and if you have any questions
+</span>
+
+(link: /about/docs text: <i class="fa fa-paper-plane"></i> send me an email. class: btn regular)
+
+<br />
+<br />
+
+</div>
+
+---
+
+(columns...)
+
+<i class="fa fa-flash service-icon"></i>
+#### Page Transitions
+
+SPA-like transitions that make the whole experience of using the theme slick and smooth.
+
+++++
+
+
+<i class="fa fa-columns service-icon"></i>
+#### Responsive Layout
+Kollide supports Desktop and Mobile out of the box, so you have nothing to worry about.
+
+++++
+
+<i class="fa fa-object-group service-icon"></i>
+#### 20+ Components
+Things like Gallery, Carousel, Forms, CTA Buttons and more. (link: /about/docs#theme-elements text: View all) 😱
+
+(...columns)
+
+---
+
+(columns...)
+
+
+<i class="fa fa-gears service-icon"></i>
+#### User-Friendly Panel
+The Panel Settings are organized in a logical way, which makes it really fun to use.
+
+++++
+
+<i class="fa fa-text-height service-icon"></i>
+#### Easy to Customize
+
+Via Panel or with code - within minutes you can have entirely different look and feel.
+
+++++
+
+<i class="fa fa-th-list service-icon"></i>
+#### Grid
+
+Choose how to list your Projects: one, two, three or four items per row - again with just a click.
+
+(...columns)
+
+---
+
+(columns...)
+
+<i class="fa fa-files-o service-icon"></i>
+#### Projects Showcase
+
+Kollide goes with predefined Projects section that is perfect for sharing your awesome work.
+
+++++
+
+<i class="fa fa-file-text-o service-icon"></i>
+#### Blog Section
+
+If you want to write - Kollide is here for you. With its Blog section you're ready to go.
+
+++++
+
+<i class="fa fa-header service-icon"></i>
+#### Page Headings
+
+With a support of Alternative titles your single view can have useful introduction now.
+
+(...columns)
+
+---
+
+(columns...)
+
+<i class="fa fa-film service-icon"></i>
+#### Video Headers
+
+If you prefer, you can display a short video instead of an image in the header.
+
+++++
+
+<i class="fa fa-exchange service-icon"></i>
+#### Slider Headers
+
+If you have multiple images that need to be displayed - go for a Cover Slider.
+
+++++
+
+<i class="fa fa-image service-icon"></i>
+#### Image Headers
+
+Each page or entry supports a header image that can be selected by a dropdown.
+
+(...columns)
+
+---
+
+(columns...)
+
+<i class="fa fa-font service-icon"></i>
+#### Typography
+
+Choose one of the 732 currently available Google Fonts via Panel. 🎉
+
+++++
+
+<i class="fa fa-eyedropper service-icon"></i>
+#### Colors
+
+Select your main colors via built-in color picker from the Panel.
+
+
+++++
+
+<i class="fa fa-sort-numeric-asc service-icon"></i>
+#### Pagination
+
+Choose how many Project or Blog articles you want to have in the listings.
+
+<!-- no matter if it's a question related to installation and setup or minor customization of the theme to match your needs. -->
+
+(...columns)
+
+---
+
+(columns...)
+
+<i class="fa fa-twitter service-icon"></i>
+#### Social Links
+
+Just paste the links to your social media profiles and they will appear as icons in the Footer.
+
+++++
+
+<i class="fa fa-adjust service-icon"></i>
+#### Dark & Light
+
+Change the skin with a single click on a checkbox - dark or light, whenever fits better on your style.
+
+++++
+
+<i class="fa fa-circle-o service-icon"></i>
+#### Logo Replacement
+
+You can easily set your logo from the Panel.
+
+(...columns)
+
+---
+
+
+(columns...)
+<i class="fa fa-book service-icon fa-3x t02"></i>
+### Documentation
+
+At the (link: /docs text: Docs) page I've prepared a detailed guide on how to use all of the theme features. Feedback is welcome. ✌️
+
+++++
+
+<i class="fa fa-support service-icon fa-3x t02"></i>
+### Support
+
+I am a one-man-army maker but I strive to help you quickly via (link: mailto: joro@yordanoff.net text: joro@yordanoff.net). If you need advanced help, (link: /about/docs#contacts-amp-support text: see this). 👨‍💻
+(...columns)
+
+---
+
+(hr: t3)
+
+<div class="ta-center">
+
+<h1>Ready to showcase your work?</h1>
+
+<br />
+
+(link: https://gum.co/kollide text: Download <span data-txt="$29">$29</span> popup: yes class: btn btn-3x)
+
+</div>
+
+(hr: t3)
+
+----
+
+Covermedia: toggleImage
+
+----
+
+Slidersize: fullwidth
+
+----
+
+Covervideo:
+
+----
+
+Sliderimages: luca-bravo-207676.jpg
+
+----
+
+Togglesubnav: 0
+
+----
+
+Columnwidth: 4
+
+----
+
+Pagemask: dark

@@ -1,0 +1,17 @@
+Title: Error
+
+----
+
+Intro: The page has not been found, because of various reasons I don't know because I am a webpage.
+
+----
+
+Text: Well, stuff can go wrong sometimes and maybe you mistyped a URL, tapped/clicked on a broken link or Kirby just wants to drive you nuts. Anyway … keep calm and take a look at our beautiful (link: / text: homepage) instead.
+
+----
+
+Titlealternative: 
+
+----
+
+Toggletitle: 0

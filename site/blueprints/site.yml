@@ -1,0 +1,258 @@
+
+title: Site
+
+pages: default
+
+
+fields:
+
+  headlineGeneral:
+    label: Site Info
+    type: headline
+
+  title:
+    label: Title
+    type:  text
+    width: 1/2
+
+  logo:
+    label: Logotype Image
+    type: image
+    width: 1/2
+
+  author:
+    label: Author
+    type:  text
+    help: Used as meta name author tag
+    width: 1/3
+
+  description:
+    label: Description
+    type: input
+    help: Used as meta description tag
+    width: 1/3
+
+  metaimage:
+    label: Default Meta Image
+    type: image
+    help: Used as meta og:image &amp; twitter:image tags
+    width: 1/3
+
+  footer:
+    label: Footer Text
+    type:  textarea
+    width: 1/2
+
+  copyright:
+    label: Copyright
+    type:  textarea
+    width: 1/2
+
+  headlinePagination:
+    label: Pagination
+    type: headline
+
+  paginationProjects:
+    label: Projects per Page
+    type: select
+    default: 6
+    options:
+        0: "No Limit - Show All"
+        1: 1
+        2: 2
+        3: 3
+        4: 4
+        5: 5
+        6: 6
+        7: 7
+        8: 8
+        9: 9
+        10: 10
+        11: 11
+        12: 12
+        13: 13
+        14: 14
+        15: 15
+        16: 16
+        17: 17
+        18: 18
+        19: 19
+        20: 20
+    width: 1/2
+
+  paginationBlog:
+    label: Articles per Page
+    type: select
+    default: 6
+    options:
+        0: "No Limit - Show All"
+        1: 1
+        2: 2
+        3: 3
+        4: 4
+        5: 5
+        6: 6
+        7: 7
+        8: 8
+        9: 9
+        10: 10
+        11: 11
+        12: 12
+        13: 13
+        14: 14
+        15: 15
+        16: 16
+        17: 17
+        18: 18
+        19: 19
+        20: 20
+    width: 1/2
+
+
+
+
+  headlineFonts:
+    label: Typography
+    type: headline
+
+  fontheadings:
+    label: Main Font
+    type: select
+    options: https://api.myjson.com/bins/d6d7h
+    width: 1/2
+    default: Roboto
+    help: <a href="https://fonts.google.com/" target="_blank">Select Fonts</a>
+
+  fontbody:
+    label: Secondary Font
+    type: select
+    options: https://api.myjson.com/bins/d6d7h
+    default: Roboto+Slab
+    width: 1/2
+
+  headlineColors:
+    label: Colors
+    type: headline
+
+  skin:
+    label: Skin
+    type: radio
+    options:
+      1: Dark
+      2: Light
+    default: 1
+    columns: 2
+
+  ca1:
+    label: Color 1
+    type: color
+    default: 1177f4
+    width: 1/2
+    help: Main accent color
+
+  ca2:
+    label: Color 2
+    type: color
+    default: f0cf61
+    width: 1/2
+    help: Secondary accent color
+
+
+
+
+  headlineSocial:
+    label: Social Links
+    type: headline
+
+  socialFacebook:
+    label: Facebook
+    type:  input
+    width: 1/4
+    icon: facebook
+  socialTwitter:
+    label: Twitter
+    type:  input
+    width: 1/4
+    icon: twitter
+  socialLinkedin:
+    label: LinkedIn
+    type:  input
+    width: 1/4
+    icon: linkedin
+  socialInstagram:
+    label: Instagram
+    type:  input
+    width: 1/4
+    icon: instagram
+  socialDribbble:
+    label: Dribbble
+    type:  input
+    width: 1/4
+    icon: dribbble
+  socialBehance:
+    label: Behance
+    type:  input
+    width: 1/4
+    icon: behance
+  socialGithub:
+    label: GitHub
+    type:  input
+    width: 1/4
+    icon: github
+  socialMedium:
+    label: Medium
+    type:  input
+    width: 1/4
+    icon: medium
+  socialYouTube:
+    label: YouTube
+    type:  input
+    width: 1/4
+    icon: youtube
+  socialVimeo:
+    label: Vimeo
+    type:  input
+    width: 1/4
+    icon: vimeo
+  socialSnapchat:
+    label: Snapchat
+    type:  input
+    width: 1/4
+    icon: snapchat
+  socialSoundcloud:
+    label: SoundCloud
+    type:  input
+    width: 1/4
+    icon: soundcloud
+  socialSpotify:
+    label: Spotify
+    type:  input
+    width: 1/4
+    icon: spotify
+  socialEmail:
+    label: Email
+    type:  input
+    width: 1/4
+    icon: envelope-square
+  socialPhone:
+    label: Phone
+    type:  input
+    width: 1/4
+    icon: phone
+  socialAddress:
+    label: Google Maps Address
+    type:  input
+    width: 1/4
+    icon: map-pin
+
+
+
+
+  headlineAnalytics:
+    label: Google Analytics
+    type: headline
+
+  googleanalytics:
+    label: Google Analytics
+    type: textarea
+    help: Past the full GA code here.

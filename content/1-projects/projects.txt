@@ -1,0 +1,62 @@
+Title: Stuff I've Done In the Presence of my Rat Friends
+
+----
+
+Intro: 
+
+# Welcome
+I am Howard. 
+I own a camera.
+I take pics . Yeah , I do that .
+Look at what I can do with my camera. 
+I like my camera. 
+It is a nice camera.
+Camera.
+
+(hr: tf)
+
+(link: projects/bike-in-dark text: Recent Stuff popup: yes class: btn)<em class="conn-01"> or</em>(link: /about text: <i class="fa fa fa-arrow-right"></i> About Me and My Nifty Camera class: btn btn-icon-o al)
+
+----
+
+Text: 
+
+----
+
+Titlealternative: Some Shit I Did In Places
+
+----
+
+Toggletitle: 1
+
+----
+
+Coverimage: landscape.jpg
+
+----
+
+Togglesubnav: 0
+
+----
+
+Covermedia: toggleImage
+
+----
+
+Slidersize: fullwidth
+
+----
+
+Covervideo: 
+
+----
+
+Sliderimages: safari.jpg
+
+----
+
+Columnwidth: 4
+
+----
+
+Pagemask: dark

@@ -1,0 +1,13 @@
+title: Page
+
+pages: true
+
+fields:
+  settingsgroup:
+    extends: settings
+
+  slidergroup:
+    extends: slider
+
+  contentgroup:
+    extends: content

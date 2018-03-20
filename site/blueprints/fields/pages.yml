@@ -1,0 +1,6 @@
+type: group
+fields:
+  togglesubnav:
+    label: Submenu
+    type:  checkbox
+    text: Show Subpages as Submenu

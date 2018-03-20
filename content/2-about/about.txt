@@ -1,0 +1,198 @@
+Title: About
+
+----
+
+Text: 
+
+I share stuff on (link: http://twitter.com/yordanoff text: Twitter <span class="fa fa-twitter"></span> popup: yes). My travel stories are available on (link: http://instagram.com/yordanoff text: Instagram <span class="fa fa-instagram"></span> popup: yes). Feel free to fork some code on (link: http://github.com/yordanoff text: GitHub <span class="fa fa-github"></span> popup: yes). Also, this is a demo page to show some of the possibilities of the theme.
+
+Get in touch to make something awesome together - (email:joro@yordanoff.net text: joro@yordanoff.net).
+
+---
+
+(columns...)
+
+## Summary
+
+++++
+
+<i class="fa fa-heart service-icon t02 sm"></i>
+
+#### 90's Lipsum
+
+Cut-off jean shorts netscape navigator the matrix dj jazzy jeff pulp fiction new kids on the block, tupac shakur gettin’ jiggy wit it tommy hilfiger videocassette. Renting movies at a store trucks snoop dogg ross and rachel cory matthews hush puppies. Don’t ask don’t tell life is like a box of chocolates jeans shania twain moby internet.
+
+#### 00's Lorem
+
+Rachel green crop tops cargo pants spiked hair zack morris america online. Sonic the hedgehog dawg michael jordan meg ryan. Space jam keanu reeves free willy frasier titanic babyface.
+
+(...columns)
+
+---
+
+(columns…)
+
+> I strive for two things in design: simplicity and clarity.
+> Great design is born of those two things.
+<cite>Lindon Leader</cite>
+
+(...columns)
+
+---
+
+(columns…)
+
+## Education
+
+++++
+
+<i class="fa fa-leaf service-icon  t02 sm"></i>
+
+#### University of Washington
+2011-2015
+Bachelor of Arts in Early Childhood & Family Studies
+
+---
+
+#### University of Chicago
+2015-2017
+Interior Design
+
+---
+
+#### University of Florida
+2017-Present
+Workshop in Food and Resource Economics
+
+(...columns)
+
+---
+
+(columns…)
+
+## Awards
+
+++++
+
+<i class="fa fa-bolt service-icon  t02 sm"></i>
+
+#### CSS Awards
+Site of the Week 2017
+
+---
+
+#### Awwwards
+Site of the Day 2017
+
+---
+
+#### FWA
+Site of the Month 2016
+
+(...columns)
+
+---
+
+(columns…)
+
+## Expertise
+
+++++
+
+<i class="fa fa-object-group service-icon  t02 sm"></i>
+
+#### Design
+* Art Direction
+* Research & Analysis
+* UX & UI
+* Illustration
+* Motion Graphics
+
+++++
+
+<i class="fa fa-code service-icon  t02 sm"></i>
+
+#### Development
+* HTML, CSS
+* JavaScript, ES6
+* React + Redux
+* Ruby on Rails
+* Python
+
+(…columns)
+
+---
+
+(columns…)
+
+## Clients
+
+++++
+
+<i class="fa fa-image service-icon  t02 sm"></i>
+
+#### Branding
+
+(link: http://google.com popup: yes text: Branding and Identity)
+(link: http://google.com popup: yes text: Node Testing)
+(link: http://google.com popup: yes text: Development Class)
+(link: http://google.com popup: yes text: Business AB)
+
+++++
+
+<i class="fa fa-laptop service-icon  t02 sm"></i>
+
+#### Web & Mobile
+(link: http://google.com popup: yes text: Design & Development)
+(link: http://google.com popup: yes text: Create Something)
+(link: http://google.com popup: yes text: Digital Solutions)
+
+(...columns)
+
+---
+
+----
+
+Intro: 
+
+Scroll down to see the demo about page of Kollide.
+
+---
+
+(link: /about/features text: <i class="fa fa-arrow-right"></i> View Features class: btn btn-icon-o) <em class="conn-01"> or </em> (link: /about/docs text: <i class="fa fa-file-text"></i> Read the Docs class: btn regular)
+
+----
+
+Coverimage: joe-gardner-298306.jpg
+
+----
+
+Titlealternative: Howard Sturman
+
+----
+
+Toggletitle: 0
+
+----
+
+Togglesubnav: 1
+
+----
+
+Covermedia: toggleImage
+
+----
+
+Slidersize: fullwidth
+
+----
+
+Covervideo: 
+
+----
+
+Sliderimages: 
+
+----
+
+Pagemask: dark

@@ -1,0 +1,22 @@
+title: Project
+
+files:
+  sortable: true
+
+options:
+  status: true
+
+pages: false
+
+fields:
+  settingsgroup:
+    extends: settings
+
+  itemrgroup:
+    extends: item
+
+  slidergroup:
+    extends: slider
+
+  contentgroup:
+    extends: content

@@ -1,0 +1,23 @@
+type: group
+fields:
+  headlineSettings:
+    label: General
+    type: headline
+
+  title:
+    label: Title
+    type:  text
+    width: 1/4
+
+  titlealternative:
+    label: Alternative Title
+    type:  text
+    width: 2/4
+    help: You might want a different title than the original one used in the navigation.
+
+  toggletitle:
+    label: Title Visibility
+    type:  checkbox
+    text: Hide Title
+    width: 1/4
+    help: You might want to hide both Title &amp; Alt Title.

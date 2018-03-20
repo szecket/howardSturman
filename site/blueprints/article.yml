@@ -1,0 +1,19 @@
+title: Article
+
+files:
+  sortable: true
+
+pages: false
+
+fields:
+  settingsgroup:
+    extends: settings
+
+  itemrgroup:
+    extends: item
+
+  slidergroup:
+    extends: slider
+
+  contentgroup:
+    extends: content

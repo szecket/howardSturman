@@ -1,0 +1,61 @@
+type: group
+fields:
+  headlineSlider:
+    label: Cover Media
+    type: headline
+
+  covermedia:
+    label: Cover Media
+    type: fieldtoggle
+    default: toggleImage
+    options:
+      toggleImage: "Image"
+      toggleVideo: "Video"
+      toggleSlider: "Slider"
+    show:
+      toggleImage: coverimage
+      toggleVideo: covervideo
+      toggleSlider: sliderimages
+    hide:
+      toggleImage: sliderimages covervideo
+      toggleVideo: sliderimages
+      toggleSlider: covervideo
+    help: Select the type of media you want to appear in your header.
+    columns: 3
+    # width: 1/3
+
+  covervideo:
+    label: Cover Video
+    type:  select
+    options: videos
+    width: 1/1
+
+  sliderimages:
+    label: Slider Images
+    type:  selector
+    mode:  multiple
+    sort:  sort
+    autoselect: none
+    types:
+      - image
+    help: To include an image as a slide, click the "Select" button • You can sort slides manually by the "Edit" button in the "Files" section in the left sidebar.
+
+  coverimage:
+    label: Cover Image
+    type:  image
+    width: 1/1
+    help: Cover Image is used for a header image as well as a thumbnail for the current page.
+
+  sep1:
+    type: line
+
+  pagemask:
+    label: Mask Overlay
+    type: radio
+    options:
+      light: Light
+      dark: Dark
+      nomask: No Mask
+    default: nomask
+    columns: 3
+    help: Choose appropriate color to make the texts on item listings pages more readeable. Use Dark mask on dark images and Light mask on bright images.

@@ -1,0 +1,75 @@
+$strokeWidth: 2px;
+$strokeColor: $c1;
+$timing: 4s;
+$easing: $transition1;
+
+.scrolldown {
+	bottom: $sp1;
+	left: 50%;
+	margin-left: -26px;
+	position: absolute;
+	cursor: pointer;
+	z-index: 50;
+	opacity: 1;
+	transition: .3s all ease;
+	padding: 20px 20px;
+    margin-bottom: -20px;
+    z-index: 100;
+	@media #{$bm} {
+		margin-bottom: -45px;
+	}
+	&:hover {
+		opacity: 1;
+	}
+    &.scrolled {
+        transform: rotate(180deg);
+    }
+	@media #{$bm} {
+	    z-index: 30;
+	}
+}
+
+.scrolldown:before,
+.scrolldown:after {
+	content: '';
+	display: block;
+	width: 10px;
+	height: 10px;
+	transform: rotate(45deg);
+	border-bottom: $strokeWidth solid $strokeColor;
+	border-right: $strokeWidth solid $strokeColor;
+    transition: .3s all ease;
+}
+
+.scrolldown:before {
+	animation: down-arrow-before $timing $easing infinite;
+    transition: .3s all ease;
+}
+
+.scrolldown:after {
+	animation: down-arrow-after $timing $easing infinite;
+    transition: .3s all ease;
+}
+
+@keyframes down-arrow-before {
+	50% {
+		transform: rotate(45deg) translate(70%, 70%);
+	}
+	100% {
+		transform: rotate(45deg) translate(70%, 70%);
+	}
+}
+
+@keyframes down-arrow-after {
+	50% {
+		transform: rotate(45deg) translate(110%, 110%);
+		opacity: 0;
+	}
+	51% {
+		transform: rotate(45deg) translate(-130%, -130%);
+	}
+	100% {
+		transform: rotate(45deg) translate(-70%, -70%);
+		opacity: 1;
+	}
+}

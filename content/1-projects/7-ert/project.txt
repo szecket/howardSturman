@@ -1,0 +1,69 @@
+Headlinesettings: 
+
+----
+
+Title: Nude Woman + Random Photo = Art
+
+----
+
+Titlealternative: 📷📷📷My Philosophy📷📷📷
+
+----
+
+Toggletitle: 0
+
+----
+
+Sep0: 
+
+----
+
+Date: 2018-03-20
+
+----
+
+Tags: Website
+
+----
+
+Columnwidth: 4
+
+----
+
+Headlineslider: 
+
+----
+
+Covermedia: toggleImage
+
+----
+
+Covervideo: 
+
+----
+
+Sliderimages: 
+
+----
+
+Coverimage: 
+
+----
+
+Sep1: 
+
+----
+
+Pagemask: dark
+
+----
+
+Headlinecontent: 
+
+----
+
+Intro: 
+
+----
+
+Text: 

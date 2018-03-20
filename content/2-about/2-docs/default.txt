@@ -1,0 +1,994 @@
+Title: Docs
+
+----
+
+Titlealternative: Documentation
+
+----
+
+Toggletitle: 0
+
+----
+
+Intro:
+
+See how the Kollide magic happens. 🔥
+
+---
+
+(link: https://gum.co/kollide text: Download <span data-txt="$29">$29</span> popup: yes class: btn) <em class="conn-01"> or </em> (link: http://demo.themes.yordanoff.net/kollide text: <i class="fa fa-lock"></i> View Panel Demo class: btn btn-icon-o popup: yes)
+
+----
+
+Text:
+
+## Features
+
+Kollide is a powerful portfolio theme for Kirby CMS. Here you can learn how to use it. Also, if you haven't done it already - definitely go and check out the (link: /about/features text: list of all theme features popup: yes). 💥
+
+
+
+(hr: t1)
+
+
+
+## Installation
+
+### How to install
+Copy-paste-replace all of the project files within the (link: http://getkirby.com text: Kirby CMS popup: yes) folder.
+
+**Note:** If you already have your custom content, themes, plugins or snippets, read below.
+
+### Import demo content
+
+The theme comes will the demo content of the current website installation. It's based in the `_demo_content.zip` archive. You can use it by replacing, unarchiving and renaming the folder to `content` - this way you'll need to replace the default content folder of the clean Kirby installation.
+
+**Note:** Be careful to not replace your content if you have already added some!
+
+
+
+(hr: t3)
+(hr: t1)
+
+
+
+## Setup
+
+All of the following features can be configured from the `Panel -> Site Config`.
+
+(image: kollide-features-site-info.png link: self class: lightbox img-no-spacing)
+
+### General Information
+Here you can change the Site title, Author, Description and general Meta Image for Facebook and Twitter, as well as the Footer Text and Copyrights colophon.
+
+### Logo
+Just upload a photo with drag & drop and select it from the dropdown.
+
+---
+
+### Pagination
+You can easily select how many items to display per page (1-20) for the Project and Blog listings.
+
+---
+
+### Skins & Colors
+
+(columns...)
+
+(image: kollide-dark.png link: self class: lightbox nomargin)
+
+++++
+
+(image: kollide-light.png link: self class: lightbox nomargin)
+
+(...columns)
+
+(image: kollide-features-colors.png link: self class: lightbox img-no-spacing)
+
+Choose between Dark and Light color scheme base and use the color pickers to change the two accent colors of the theme.
+
+
+---
+
+### Typography
+
+(image: kollide-features-typography.png link: self class: lightbox img-no-spacing)
+
+Kollide is the only Kirby CMS theme that supports all of the currently available Google Fonts. You can select which font to use for Headings and Special Elements and which one for body text and UI.
+
+---
+
+### Social Media Links
+
+(image: kollide-features-social-media.png link: self class: lightbox img-no-spacing)
+
+You can easily add URLs to your social media profiles on the following platforms:
+
+Facebook, Twitter, LinkedIn, Instagram, Dribbble, Behance, GitHub, Medium, YouTube, Vimeo, Snapchat, SoundCloud, Spotify, Email, Phone, Goole Maps Address (URL).
+
+If you want to add another network, read the (link: #faq text: FAQ).
+
+---
+
+### Google Analytics
+
+(image: kollide-features-google-analytics.png link: self class: lightbox img-no-spacing)
+
+To add your Google Analytics code you don't need to modify any PHP files. Just paste your GA code in the textarea.
+
+
+
+(hr: t3)
+(hr: t1)
+
+
+
+## Theme Elements
+
+### Columns
+
+The theme goes with preinstalled (link: https://github.com/getkirby-plugins/columns-plugin text: Columns Plugin popup: yes) by (link: https://twitter.com/bastianallgeier text: Bastian Allgeier popup: yes), which means that you can easily use columns that support nested markdown or Kirbytext.
+
+(demo...)
+
+(columns...)
+**Column 1**
+In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum.
+
+++++
+
+**Column 2**
+In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum.
+
+(...columns)
+
+++++++
+
+
+``` Markdown
+( columns... )
+
+**Column 1**
+In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum.
+
+++++
+
+**Column 2**
+In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum.
+
+( ...columns )
+
+```
+
+(...demo)
+
+It supports up to 5 content columns, but you can extend them if you go to `assets/sass/components/_grid.scss` and add a few more CSS classes.
+
+**Note:** Remove the space symbol after the opening `(` bracket and before the closing `)` bracket to make the demo code work.
+
+(hr: t3)
+
+### Unwrapper
+
+In case you want to insert content (e.g. images, gallery, video, carousel, text in columns) using the full width of the browser, you can use the special `unwrap` tag:
+
+
+``` Markdown
+( unwrap: open )
+
+Element 1
+
+++++
+
+Element 2
+
+( unwrap: close )
+
+```
+
+**Note:** Remove the space symbol after the opening `(` bracket and before the closing `)` bracket to make the demo code work.
+
+
+(hr: t3)
+
+### Links & Buttons
+
+(demo...)
+
+(link: http://gum.co/kollide class: btn popup: yes text: Buy Now <span data-txt="$35">$29</span>)
+
+<br>
+
+(link: http://gum.co/yordanoff class: btn btn-icon-o popup: yes text: <i class="fa fa-play"></i> Watch Features)
+
+<br>
+
+(link: http://gum.co/yordanoff class: btn regular popup: yes text: <i class="fa fa-book"></i> Documentation)
+
+<br>
+
+(link: http://gum.co/yordanoff class: highlight popup: yes text: <i class="fa fa-envelope-o"></i> Send Email)
+
+<br>
+
+(link: http://gum.co/yordanoff class: highlight popup: yes text: Next Article)
+
+<br>
+
+(link: http://gum.co/yordanoff text: <i class="fa fa-book"></i> Icon Link)
+
+<br>
+
+(link: http://gum.co/yordanoff text: Regular Link)
+
+++++++
+
+``` Markdown
+( link: http://gum.co/yordanoff class: btn popup: yes text: Buy Now <span data-txt="$15">$15</span> )
+
+( link: http://gum.co/yordanoff class: btn btn-icon-o popup: yes text: <i class="fa fa-play"></i> Watch Features )
+
+( link: http://gum.co/yordanoff class: btn regular popup: yes text: <i class="fa fa-book"></i> Documentation )
+
+( link: http://gum.co/yordanoff class: highlight popup: yes text: <i class="fa fa-envelope-o"></i> Send Email )
+
+( link: http://gum.co/yordanoff class: highlight popup: yes text: Next Article )
+
+( link: http://gum.co/yordanoff text: <i class="fa fa-book"></i> Icon Link )
+
+( link: http://gum.co/yordanoff text: Regular Link )
+```
+(...demo)
+
+**Note:** Remove the space symbol after the opening `(` bracket and before the closing `)` bracket to make the demo code work.
+
+(hr: t3)
+
+### Headings
+
+(demo...)
+
+# Heading 1
+
+## Heading 2
+
+### Heading 3
+
+#### Heading 4
+
+##### Heading 5
+
+###### Heading 6
+
+++++++
+
+``` Markdown
+# Heading 1
+
+## Heading 2
+
+### Heading 3
+
+#### Heading 4
+
+##### Heading 5
+
+###### Heading 6
+```
+(...demo)
+
+
+
+(hr: t3)
+
+
+
+### Lists
+(demo...)
+
+1. Ordered Item
+2. Ordered Item
+    1. Ordered Item
+    2. Ordered Item
+3. Ordered Item
+4. Ordered Item
+
+* Unordered item
+* Unordered item
+    * Nested item
+    * Nested item
+* Unordered item
+* Unordered item
+
+++++++
+
+``` Markdown
+1. Ordered item
+2. Ordered item
+    1. Nested item
+    2. Nested item
+3. Ordered item
+4. Ordered item
+
+* Unordered item
+* Unordered item
+    * Nested item
+    * Nested item
+* Unordered item
+* Unordered item
+```
+
+(...demo)
+
+
+(hr: t3)
+
+
+### Blockquotes
+(demo...)
+
+> With great power comes great documentation
+<cite>Someone on the Internet</cite>
+
+++++++
+
+```Markdown
+> With great power comes great documentation
+<cite>Someone on the Internet</cite>
+
+```
+(...demo)
+
+Currently there are two types of quotes. The regular one, which is displayed in the demo above, and the second one which is wider. To call the wider one, just wrap the blockquote in `(columns...)` tag (with just one column, in other words without `++++` separator):
+
+```Markdown
+( columns ... )
+
+> With great power comes great documentation
+<cite>Someone on the Internet</cite>
+
+( ...columns )
+```
+
+**Note:** Remove the space symbol after the opening `(` bracket and before the closing `)` bracket to make the demo code work.
+
+
+
+(hr: t3)
+
+
+
+### Code Snippets
+
+Code snippets are visible all around this page. They are available as snippets with the *`* for inline `<code>` tag and ` ```LANGUAGE ` as opening tag and ` ``` ` as closing tag for `<pre>` multilines snippet with syntax highlighting.
+
+Replace `LANGUAGE` with one of the following predefined highlights: _HTML, CSS, SCSS, PHP, JavaScript, Markdown_ or download more at (link: http://prismjs.com text: PrismJS syntax highlighter popup: yes).
+
+
+(hr: t3)
+
+
+### Demo Component
+
+Something I have built in order to organise better this documentation page is the `demo` component. The demo components are meant to easily present a interactive demo of a certain component together with it's HTML/Markdown/Kirbytext code. You can use it like that:
+
+``` Markdown
+( demo... )
+
+Here is the **demo**, below is the **code**.
+
++ + + + + +
+
+` ` ` `
+Here is the **demo**, below is the **code**.
+` ` ` `
+
+( ...demo )
+```
+
+**Note:** Remove the space symbol after the opening `(` bracket and before the closing `)` bracket to make the demo code work. Also, remove the spaces between the six plus `+` signs, and the `four apostrophes`.
+
+
+
+(hr: t3)
+
+
+
+### Horizontal Lines
+
+(demo...)
+
+---
+
+++++++
+
+``` Markdown
+---
+```
+
+(...demo)
+
+
+(demo...)
+
+Text paragraph
+
+(hr: t1)
+
+## Heading 2
+
+++++++
+
+``` Markdown
+
+Text paragraph
+
+( hr: t1 )
+
+## Heading 2
+```
+
+(...demo)
+
+**Note:** Remove the space symbol after the opening `(` bracket and before the closing `)` bracket to make the demo code work.
+
+(demo...)
+
+(hr: t2)
+
+++++++
+
+``` Markdown
+( hr: t2 )
+
+```
+
+(...demo)
+
+**Note:** Remove the space symbol after the opening `(` bracket and before the closing `)` bracket to make the demo code work.
+
+
+
+(demo...)
+
+(hr: t3)
+
+++++++
+
+``` Markdown
+( hr: t3 )
+```
+
+(...demo)
+
+**Note:** Remove the space symbol after the opening `(` bracket and before the closing `)` bracket to make the demo code work.
+
+
+(hr: t3)
+
+### Cover Image
+
+The `Cover Image` is used as a thumbnail for various item listings, as a background for the Off Canvas navigation, and finally - as a Hero/Cover media on the single page of each page/item (if you didn't select Cover Video or Slider).
+
+(image: kollide-features-cover-image-sample.png)
+
+First you have to upload at least one image file to the item's directory. Then in section `02. Cover Media` select the image you want to use as a Cover from the `Cover Image` select field.
+
+Now your thumbnail for this item is set. You can proceed by setting this image for `Cover Media -> Image` on the single page, or you can choose to display `Video` or even `Slider` on the single page.
+
+(image: kollide-features-cover-image.png class: lightbox link: self)
+
+(hr: t3)
+
+### Cover Video
+
+Each page or item can have a Video as Hero/Cover media.
+
+(image: kollide-features-cover-video.gif)
+
+First - upload a video file in the item's directory. Then in section `02. Cover Media` select `Cover Media -> Video` and just choose the video file that you want to display from the `Cover Video` select list.
+
+(image: kollide-features-cover-video.png class: lightbox link: self)
+
+(hr: t3)
+
+### Slider
+
+As a Hero/Cover on single pages you can also use slider.
+
+(image: kollide-features-cover-slider.gif)
+
+Just select `02. Cover Media -> Slider` and then in the `Slider Images` field click select on the images you'd like to include.
+
+Again you can select the width of the slider - Full, Medium or Small.
+
+Easy, huh? 👌
+
+(image: kollide-features-cover-slider.png class: lightbox link: self)
+
+(hr: t3)
+
+### Carousels
+
+Carousels are the same as the Hero/Cover Slider, with a few slight differences.
+
+
+* Carousels can be used **anywhere** on the page, while Hero/Cover Slider has fixed position at the top of the page.
+* Carousels can have multiple instance - in other words you can have multiple Carousels on a single page.
+* Carousels don't have arrows.
+* Carousels don't work with left/right keyboard arrows. These keys are binded to the main Hero/Cover Slider.
+
+(demo...)
+
+
+(carousel...)
+
+(image: slide-joel-filipe-151692.jpg)
+
+++++
+
+(image: slide-joel-filipe-189456-1.jpg)
+
+++++
+
+(image: slide-joel-filipe-191175-1.jpg)
+
+(...carousel)
+
+++++++
+
+```Markdown
+
+( carousel... )
+
+( image: slide-joel-filipe-151692.jpg link: self )
+
+++++
+
+( image: slide-joel-filipe-189456-1.jpg link: self )
+
+++++
+
+( image: slide-joel-filipe-191175-1.jpg link: self )
+
+( ...carousel )
+
+```
+
+(...demo)
+
+**Note:** Remove the space symbol after the opening `(` bracket and before the closing `)` bracket to make the demo code work.
+
+
+
+(hr: t3)
+
+
+
+### Gallery Grid
+
+Just wrap up your images with (gallery ...) tag.
+
+(demo...)
+
+
+(gallery...)
+(image: slide-joel-filipe-151692.jpg link: self)
+
+(image: slide-joel-filipe-189456-1.jpg link: self)
+
+(image: slide-joel-filipe-191175-1.jpg link: self)
+(...gallery)
+
+++++++
+
+```Markdown
+
+( columns ... )
+( gallery... )
+
+( image: slide-joel-filipe-151692.jpg link: self )
+
+( image: slide-joel-filipe-189456-1.jpg link: self )
+
+( image: slide-joel-filipe-191175-1.jpg link: self )
+
+( ...gallery )
+( ...columns )
+
+```
+
+(...demo)
+
+**Note:** Remove the space symbol after the opening `(` bracket and before the closing `)` bracket to make the demo code work.
+
+(hr: t3)
+
+### Lightbox
+
+(demo...)
+
+(image: jay-wennington-2250.jpg link: self class: lightbox)
+
+++++++
+
+```Markdown
+
+( image: jay-wennington-2250.jpg link: self class: lightbox )
+
+```
+
+(...demo)
+
+Insert the image via Kirbytext and add the `link: self` and `class: lightbox` attributes to get a lightbox preview.
+
+**Note:** Remove the space symbol after the opening `(` bracket and before the closing `)` bracket to make the demo code work.
+
+
+
+(hr: t3)
+
+### Features Lists
+(demo...)
+
+<i class="fa fa-moon-o service-icon"></i>
+
+## Process
+* Version Control - GIT & SVN
+* Scrum Methodology
+* Highly Organised
+* Team Player
+
+++++++
+
+``` Markdown
+<i class="fa fa-moon-o service-icon"></i>
+
+## Process
+* Version Control - GIT & SVN
+* Scrum Methodology
+* Highly Organised
+* Team Player
+```
+
+(...demo)
+
+
+(link: #icons text: See how) to easily use various icons.
+
+Combine the Features List components with (link: #columns text: columns) and (link: #horizontal-lines text: horizontal lines) and voilà - you have it all.
+
+
+(hr: t3)
+
+
+### Forms
+
+The theme comes with basic markup and styles for a basic form. Please notice that you need back-end implementation for it.
+
+(demo...)
+
+<h2>Contact Us</h2>
+
+<form submit="" class="form">
+    <label for="name">What's your name?</label>
+    <input type="text" id="name" name="name" placeholder="First and Last Name" />
+
+    <label for="email">And your email?</label>
+    <input type="email" id="email" name="email" placeholder="E-Mail" />
+
+    <label for="subject">Let's chat about...</label>
+    <input type="text" id="subject" name="subject" placeholder="Subject" />
+
+    <textarea placeholder="Write it down here..." rows="4"></textarea>
+
+    <button type="submit" value="" class="btn btn-regular">Send!</button>
+</form>
+
+++++++
+
+```HTML
+
+<h2>Contact Us</h2>
+
+<form submit="" class="form">
+    <label for="name">What's your name?</label>
+    <input type="text" id="name" name="name" placeholder="First and Last Name" />
+
+    <label for="email">And your email?</label>
+    <input type="email" id="email" name="email" placeholder="E-Mail" />
+
+    <label for="subject">Let's chat about...</label>
+    <input type="text" id="subject" name="subject" placeholder="Subject" />
+
+    <textarea placeholder="Write it down here..." rows="4"></textarea>
+
+    <button type="submit" value="" class="btn btn-regular">Send!</button>
+</form>
+```
+
+(...demo)
+
+Note that this is just a styling of a form. For a back-end implementation, you can take a look on the (link: https://github.com/mzur/kirby-uniform text: Uniform Plugin popup: yes) by (link: https://github.com/mzur text: Martin Zurowietz popup: yes) for Kirby CMS.
+
+
+(hr: t3)
+
+
+
+### Icons
+
+The theme comes with integration of all of the **675** (link: http://fontawesome.io text: FontAwesome popup: yes) icons, you can use their (link: http://fontawesome.io/cheatsheet text: cheatsheet popup: yes) everywhere in the theme.
+
+(demo...)
+
+<br>
+
+<i class="fa fa-github"></i> Label
+
+<i class="fa fa-github service-icon"></i>
+
+<br>
+
+++++++
+
+```HTML
+<i class="fa fa-github"></i> Label
+
+<i class="fa fa-github service-icon"></i>
+```
+(...demo)
+
+
+
+(hr: t3)
+(hr: t1)
+
+
+
+## Content Management
+
+The theme supports Projects, Blog, About and Home page out of the box. Each page/item has various settings that can be adjusted (e.g. (link: #cover-image text: Cover Image), (link: #cover-video text: Cover Video), (link: #slider text: Cover Slider)).
+<br />
+
+(image: kollide-features-items-general.png link: self class: img-no-spacing lightbox)
+
+### Titles
+
+Each page/item can have its original title displayed on its single page or an alternative title that you can write. See the (link: /about text: About page popup: yes) - its original title is `About` and it's used for the navigation, but on the single view I set the `What is this all about?` instead of just _About_.
+
+You can even hide the original title from the single view, just put the mark on the checkbox.
+
+
+### Submenu Items
+
+Other useful feature is the `Submenu`. For each parent page you can select to display its children in the navigation or hide them. By default they're all hidden - see the `Projects` and `Blog` navigation buttons. For the `About` page though, the subpages are visible.
+
+
+### Date & Tags
+
+Projects and Articles have a datepicker field and tag fields you can use.
+
+### Mask Overlay
+
+Projects have another nice feature - you can select between `Dark`, `Light` and `No Mask` overlay to be used in the headers.
+
+This way you will be able to achieve a better contrast between the text and the media, and improve the readability of the heading texts.
+
+Choose "Dark" mask to make your overlay text white and vice versa — use "Light" mask for bright images. "No Mask" will give you a dark text and no gradient overlay - it's suitable for light header images.
+
+Keep in mind that the labels of the mask are accurate for the Dark version of the theme. If you switch to Light, they can be confusing, because the colors will be inverted, but the labels in the Panel - not.
+
+
+### Projects Item Width
+
+(image: kollide-gif-items-width.gif class: img-no-spacing)
+
+For each project you can choose how much width to take in the listing on the homepage. In combination with the native drag & drop to sort subpage functionality of Kirby CMS it's a powerful feature to display your work in the best way possible.
+
+
+
+(hr: t3)
+
+
+
+(hr: t1)
+## Code Customization
+
+### (S)CSS Modifications
+All styles of the current theme are written in (link: http://sass-lang.com/ text: SCSS popup: yes), which makes it pretty easy to modify and build something totally unique based on the theme.
+
+Kollide uses the awesome (link: http://leafo.github.io/scssphp text: SCSSPHP popup: yes) library which compiles all SCSS changes on the fly on the server. However, if you plan to do heavy modifying of the styles, I recommend you to stop the SCSSPHP library and compile styles locally because it's faster. (link: #using-codekit text: Read more).
+
+`assets/default.scss`
+
+Contains all main theme styles, such as header, navigation, various layouts, footer, listings, single posts and page. In the beginning of this file is imported `_components.scss`, which contains all other helping files. In the end of the file is imported `_custom.scss`, which you can use to overwrite
+
+**Output:** minified `assets/css/default.css` which is called in the `site/snippets/header.php` via `scss` snippet. This is the only SCSS file that generates output. All other SCSS files with `_` prefix are imported in `default.scss`.
+
+`assets/components`
+
+This folder contains all sub components, such as the animation for the hamburger icon, animations for page transitions, the basic grid, fontawesome's css, the styles for all of the UI elements and more.
+
+* `assets/components/_animsition.scss` - contains different types of CSS animations used for the page transitions.
+* `assets/components/_elements.scss` - contains all the styles for the (link: #theme-elements text: UI Theme Elements).
+* `assets/components/_fa.scss` - the Fontawesome's styles.
+* `assets/components/_glide.scss` - styles of the Glidejs slider.
+* `assets/components/_navicon.scss` - the open/close animation of the hamburger icon.
+* `assets/components/_prism.scss` - Prism is the syntax highlighter plugin used for this theme.
+* `assets/components/_typography.scss` - All typography settings are setup in this one.
+* `assets/_components.scss` - This is the control file in which are imported all `components`, helpers, mixins, normalize.css and others.
+*  `assets/_helpers.scss` - Various helpers that are included in the end of the `_components.scss`. You can add your own here.
+*  `assets/_mixins.scss` - All of the SCSS mixins.
+*  `assets/_normalize.scss` - The famouse (link: http://git.io/normalize text: normalize.css popup: yes).
+*  `assets/_pallete.scss` - Contains variables for the colour pallete.
+*  `assets/_variables.scss` - Contains different variables related to the layout settings
+*  `assets/_custom.scss` - If you want to overwrite some styles but without changing the core SCSS files, you can write your CSS rules here. This file is appended in the end of the `default.scss`.
+
+---
+
+### JavaScript Modifications
+
+All of the JavaScript (jQuery mostly) libraries are located in `assets/scripts`.
+
+The `main.js` file contains the initializations of all the libraries within the `$(document).ready()`.
+
+---
+
+### Using CodeKit
+
+(link: https://codekitapp.com/ text: CodeKit popup: yes) is a tool for macOS that compiles files, supports browser refreshing, optimisation of files, debugging and more.
+
+The theme comes with `codekit3.config` file which makes it really easy to import the whole project folder in (link: https://codekitapp.com/ text: CodeKit popup: yes) and start modifying SCSS or JS files, which will be auto recompiled.
+
+If you are looking for an alternative and free solution, check out (link: http://koala-app.com/ text: Koala popup: yes). It's available for Windows too.
+
+
+(hr: t3)
+(hr: t1)
+
+
+## FAQ
+
+#### Do I need to know programming in order to use this theme? #####
+
+My goal is to create simple themes with as much components, as needed. In other words some of my older themes are great fit for designers, front-end or back-end developers or people with little HTML/CSS knowledge since this would help them to easily customise each theme.
+
+This theme, however is built in a way that allows to everyone to setup a website in just a few minutes (for real). So, the short answer is **no**.
+
+---
+
+#### Is there a Panel demo available?
+
+Currently there isn't a working demo where you can test the theme and its Panel by yourself. But I am working on something, so stay tuned!
+
+---
+
+#### How to change the favicon?
+
+At this stage there is no option to change the favicon of the website trough the Panel. You can change your favicon by uploading your image file to (link: http://www.favicon-generator.org/ text: Favicon Generator popup: yes) and replacing all of the image files in the  `assets/images/metaicons` directory.
+
+---
+
+#### Which versions of Kirby are supported?
+
+Version **2.5.1** and above.
+Lower versions are not supported at this time.
+
+---
+
+#### Can you help me customize my theme?
+
+I probably can.
+Take a look at the (link: /about/docs#contacts-amp-support text: Contacts & Support) section below.
+
+---
+
+#### How to add a new social link in Site Options?
+
+Let's say you want to add a link to your Twitch profile.
+Open `site/blueprints/site.yml` and add the following:
+
+```YML
+socialTwitch:
+  label: Twitch
+  type:  input
+  width: 1/4
+  icon: twitch
+```
+
+Then open `site/snippets/social.php` and add the following:
+
+```PHP
+<?php if($site->socialTwitch()->isNotEmpty()) : ?>
+    <a href="<?php echo $site->socialTwitch()->html() ?>" target="_blank">
+        <i class="fa fa-twitch"></i>
+    </a>
+<?php endif ?>
+```
+
+Then just add your URL in the `Panel -> Site Options -> Twitch`.
+
+---
+
+#### How to change the blockquote's opening symbol (✪)?
+
+Open `assets/scss/components/_elements.scss` and find the `blockquote` selector. There you'll see a nested `&:before, after` selector which `content` property contains the ASCII star symbol. Change it with whatever you like, or add `display: none` to hide it completely.
+
+
+
+(hr: t3)
+(hr: t1)
+
+
+
+## Contacts & Support
+Although I am a one-man-army creator, I strive to help you quickly via (link: mailto:joro@yordanoff.net text: email), so do not hesitate to get in touch.
+
+Please note that if your request is more complex, I may not be able to help you for free. If you need an advanced customization, custom theme or just a UI/UX design, (link: http://dribbble.com/yordanoff text: take a look at my work popup: yes) and tell me more about your project and I will send you a proposal.
+
+Most of the time though I manage to help with small customizations and theme request, so feel free to drop me a line.
+
+Also, your feedback is more than welcome! 🙏🏻
+
+
+(hr: t3)
+(hr: t1)
+
+
+
+## Credits
+
+* (link: http://getkirby.com text: Kirby CMS popup: yes)
+* (link: https://github.com/fitzage/headid text: HeadID popup: yes)
+* (link: https://github.com/getkirby-plugins/columns-plugin text: Columns popup: yes)
+* (link: https://github.com/jedrzejchalubek/glidejs text: Glide.js Slider popup: yes)
+* (link: https://github.com/studiodumbar/kirby-extensions/tree/master/plugins/detect text: Detect popup: yes)
+* (link: https://github.com/ian-cox/Kirby-Color-Picker text: Color picker popup: yes)
+* (link: https://github.com/medienbaecker/kirby-fieldtoggle text: Field Toggle popup: yes)
+* (link: https://github.com/storypioneers/kirby-selector text: Selector popup: yes)
+* (link: http://leafo.github.io/scssphp text: SCSSPHP popup: yes)
+* (link: https://github.com/blivesta/animsition text: Animsition popup: yes)
+* (link: https://noelboss.github.io/featherlight/ text: FeatherLight popup: yes)
+* (link: http://fitvidsjs.com/ text: FitVids popup: yes)
+* (link: http://prismjs.com/ text: Prism.js popup: yes)
+* (link: http://unsplash.com/ text: Unsplash popup: yes)
+
+
+(hr: t3)
+
+----
+
+Slidersize: medium
+
+----
+
+Coverimage: tyler-lastovich-272588.jpg
+
+----
+
+Toggleslider: 1
+
+----
+
+Sliderimages: ilya-pavlov-87438.jpg,jay-wennington-2250.jpg,pineapple-supply-co-150879.jpg
+
+----
+
+Covermedia: toggleImage
+
+----
+
+Covervideo:
+
+----
+
+Togglesubnav: 0
+
+----
+
+Columnwidth: 4
+
+----
+
+Pagemask: dark
